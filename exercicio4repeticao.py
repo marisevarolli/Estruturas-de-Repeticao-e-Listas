@@ -7,4 +7,4 @@ while paísA <= paísB :
     paísB = paísB + (paísB * 0.015)
     anos = anos + 1
 
-print ("Levará", anos, "anos para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.")
+print ("Levará", anos, "anos para que a população do país A ultrapasse ou iguale a população do país B, se mantidas as taxas de crescimento.")
